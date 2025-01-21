@@ -1,4 +1,4 @@
-# Landmarks Classification and Tagging using CNN
+# Geotagging and Landmark Recognition in Social Media
 In this project we solve a `multi-label-classification` problem by classifying/tagging a given image of a famous landmark using CNN (Convolutional Neural Network).
 
 ## Features
