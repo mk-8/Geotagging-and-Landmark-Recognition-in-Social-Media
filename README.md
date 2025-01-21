@@ -33,7 +33,7 @@ To build NN based model that'd accept any user-supplied image as input and sugge
     - Here, we aim to attain a test accuracy of at least 60%, which is pretty good given the complex nature of this task.
 4. Implement an inference function that will accept a file path to an image and an integer k and then predict the top k most likely landmarks this image belongs to. The print below displays the expected sample output from the predict function, indicating the top 3 (k = 3) possibilities for the image in question.
 
-<img src="./assets/sample_output.png">
+<img src="https://github.com/mk-8/Geotagging-and-Landmark-Recognition-in-Social-Media/blob/main/assets/sample_output.png?raw=true">
 
 ## Dataset
 - Dataset to be downloaded from [here](https://udacity-dlnfd.s3-us-west-1.amazonaws.com/datasets/landmark_images.zip). Note that this is a mini dataset containing around 6,000 images); this dataset is a small subset of the [Original Landmark Dataset](https://github.com/cvdfoundation/google-landmark) that has over 700,000 images.
