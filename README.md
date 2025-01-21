@@ -44,7 +44,7 @@ To build NN based model that'd accept any user-supplied image as input and sugge
 - Images in the dataset are of different sizes and resolution
 - Here are a few samples from the training dataset with their respective labels descriptions...
 
-<img src="assets/landmark_samples.png">
+![Landmark Samples](assets/landmark_samples.png)
 
 ## Evaluation Criteria
 
